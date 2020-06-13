@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Kenzo -->
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+  <project name="user-ilang/device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="github" revision="nougat" />
+  <project name="user-ilang/device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="github" revision="nougat" />
+  <project name="AmolAmrit/Escrima_kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="github" revision="pie" />
+  <project name="AmolAmrit/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="nougat" />
+<!-- end of Kenzo -->
+
+</manifest>
